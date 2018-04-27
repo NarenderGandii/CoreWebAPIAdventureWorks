@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs/CoreWebAPIAdventure/v15
+/CoreWebAPIAdventure/bin/Debug/netcoreapp2.0
+/CoreWebAPIAdventure/obj
+/CoreWebAPIAdventure.DataModel/bin/Debug/netcoreapp2.0
+/CoreWebAPIAdventure.DataModel/obj
+/CoreWebAPIAdventure.Repository/obj
+/CoreWebAPIAdventure.Repository/bin/Debug/netcoreapp2.0
+/CoreWebAPIAdventure.Tests/bin/Debug/netcoreapp2.0
+/CoreWebAPIAdventure.Tests/obj
+/CoreWebAPIAdventure.Repository.Tests/bin/Debug/netcoreapp2.0
+/CoreWebAPIAdventure.Repository.Tests/obj
+/CoreWebAPIAdventure/Properties
